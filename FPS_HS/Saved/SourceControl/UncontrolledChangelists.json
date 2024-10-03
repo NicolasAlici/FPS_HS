@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Develop/Unreal Projects/FPS_HS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Levels/TestLevel.umap",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Gamemode/BP_FPS_GameMode.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IMC_Player.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_Character.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Look.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Move.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_CharacterController.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Run.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Jump.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Crouch.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Slide.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/AK-47_Texture_.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_005.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_016.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_015.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_014.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_001.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_013.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_010.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_006.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_012.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_002.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_004.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_009.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_007.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/Material_008.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/AK-47_Texture__Skeleton.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/AK-47/AK-47_Texture__PhysicsAsset.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/UIs/WPI_HUD.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Assets/crosshair-1.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Shoot.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Levels/TestLevel.umap",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Guns/BP_AK47.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Guns/BP_Weapon_Master.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Tests/BP_TestActor.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Reload.uasset"
+			]
+		}
+	]
+}
