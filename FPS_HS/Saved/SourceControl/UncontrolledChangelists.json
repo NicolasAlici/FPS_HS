@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Develop/Unreal Projects/FPS_HS/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Levels/TestLevel.umap",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Gamemode/BP_FPS_GameMode.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IMC_Player.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_Character.uasset",
@@ -41,7 +40,11 @@
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Guns/BP_AK47.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Guns/BP_Weapon_Master.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Tests/BP_TestActor.uasset",
-				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Reload.uasset"
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IAs/IA_Reload.uasset",
+				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_Character.uasset",
+				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_CharacterController.uasset",
+				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/WallRun/BP_WallRun.uasset",
+				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Levels/TestLevel.umap"
 			]
 		}
 	]
