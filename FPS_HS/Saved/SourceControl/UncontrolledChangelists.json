@@ -46,6 +46,9 @@
 				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/WallRun/BP_WallRun.uasset",
 				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Materials/M_WallRun.uasset",
 				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Levels/TestLevel.umap",
+				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Sounds/GunSounds/AK47_Single_Shot.uasset",
+				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/IA/BP_AI_Controller.uasset",
+				"D:/Develop/Github Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/IA/BP_AI_Character.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Levels/TestLevel.umap"
 			]
 		}
