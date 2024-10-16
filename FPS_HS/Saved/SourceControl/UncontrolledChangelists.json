@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Nicolas/Documents/Develop/GitHub Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/Tests/BP_Test_Medkit.uasset",
+				"C:/Users/Nicolas/Documents/Develop/GitHub Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_Character.uasset",
+				"C:/Users/Nicolas/Documents/Develop/GitHub Projects/Unreal/FPS_HS/FPS_HS/Content/Levels/TestLevel.umap",
+				"C:/Users/Nicolas/Documents/Develop/GitHub Projects/Unreal/FPS_HS/FPS_HS/Content/Develop/Blueprints/IA/BP_AI_Character.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Blueprints/Gamemode/BP_FPS_GameMode.uasset",
 				"D:/Develop/Unreal Projects/FPS_HS/Content/Develop/Inputs/IMC_Player.uasset",
