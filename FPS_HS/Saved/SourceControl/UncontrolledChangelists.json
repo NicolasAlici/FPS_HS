@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Nicolas/Documents/Development/FPS-HS/Github Project/FPS_HS/FPS_HS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Nicolas/Documents/Development/FPS-HS/Github Project/FPS_HS/FPS_HS/Content/Develop/Blueprints/Barrel/BP_ExplosiveBarrel.uasset",
+				"C:/Users/Nicolas/Documents/Development/FPS-HS/Github Project/FPS_HS/FPS_HS/Content/Levels/TestLevel.umap",
 				"D:/Develop/Game Porjects/Github Projects/Unreal/FPS-HS/FPS_HS/FPS_HS/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Develop/Game Porjects/Github Projects/Unreal/FPS-HS/FPS_HS/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_Character.uasset",
 				"D:/Develop/Game Porjects/Github Projects/Unreal/FPS-HS/FPS_HS/FPS_HS/Content/Develop/Blueprints/FPS_Character/BP_FPS_CharacterController.uasset",
